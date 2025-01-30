@@ -1,4 +1,3 @@
-
 # 🏥 Sickle Cell Disease Detection using Deep Learning
 
 ## 📌 Overview
@@ -56,25 +55,9 @@ jupyter notebook sickleCellDisease.ipynb
   - Elongated cells are **indicative of SCD**.
   - The model effectively classifies abnormal cells for early disease detection.
 
-## 📜 Mathematical Formulation
-The classification model follows the equation:
-
-<p style="text-align:center; font-size: 20px;">
-\[
-\hat{y} = f(X; W, b)
-\]
-</p>
-
-where:
-- \( \hat{y} \) is the predicted class label
-- \( X \) is the input image feature matrix
-- \( W \) represents the learned weights
-- \( b \) is the bias term
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **fork** the repository and submit a **pull request**.
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-```
-
