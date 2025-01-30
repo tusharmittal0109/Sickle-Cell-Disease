@@ -1,4 +1,4 @@
-```markdown
+
 # 🏥 Sickle Cell Disease Detection using Deep Learning
 
 ## 📌 Overview
@@ -58,13 +58,13 @@ jupyter notebook sickleCellDisease.ipynb
 
 ## 📜 Mathematical Formulation
 The classification model follows the equation:
-```html
+
 <p style="text-align:center; font-size: 20px;">
 \[
 \hat{y} = f(X; W, b)
 \]
 </p>
-```
+
 where:
 - \( \hat{y} \) is the predicted class label
 - \( X \) is the input image feature matrix
